@@ -1,0 +1,15 @@
+/* estilos.css */
+
+/* Com o CSS posso definir e controlar o aspecto visual da página HTML */ 
+
+body { 
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size: 20px;
+
+        background-color: black;
+        color:white;
+    }
+
+h1 { 
+    color:plum;
+}    
